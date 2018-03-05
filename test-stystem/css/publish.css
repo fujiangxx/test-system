@@ -1,0 +1,38 @@
+.publish-content{
+    width: 100%;
+    height:30vh;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+    padding-top: 2vh;
+}
+.publish-content-lis{
+    width:45%;
+    height:45%;
+    border:1px solid gray;
+    overflow: hidden;
+}
+.publish-content-lis a{
+    display: block;
+    width: 100%;
+    height:100%;
+}
+.publish-icon{
+    font-size: 28px;
+    line-height: 12vh;
+    float: left;
+    color:blue;
+    padding-left:3vw;
+    padding-right:3vw;
+}
+.publish-content-lis-word{
+    float: left;
+    line-height: 12vh;
+    padding-left:3vw;
+    padding-right:3vw;
+}
+.publish-content-lis-word span{
+    font-size: 28px;
+    color:#000;
+}
